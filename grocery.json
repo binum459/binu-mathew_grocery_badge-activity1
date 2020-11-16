@@ -1,0 +1,60 @@
+[
+  {"number":1,"product":"Milk","quantity":3,"unit":"number","dept":"Dairy","notes":"Pastured milk"},
+  
+  {"number":2,"product":"Butter","quantity":2,"unit":"number","dept":"Dairy","notes":"Unsalted"},
+
+  
+  {"number":3,"product":"Eggs","quantity":5,"unit":"number","dept":"Dairy","notes":"Fresh"},
+
+  
+  {"number":4,"product":"Cheese","quantity":1,"unit":"kg","dept":"Dairy","notes":"Cottage Cheese"},
+
+  
+  {"number":5,"product":"Apples","quantity":3,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+  
+  {"number":6,"product":"Bananas","quantity":2,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+  
+  {"number":7,"product":"Tomatoes","quantity":1,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+  
+  {"number":8,"product":"Carrots","quantity":3,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+
+  
+  {"number":9,"product":"Garlic","quantity":3,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+
+  
+  {"number":10,"product":"Spinach","quantity":2,"unit":"kg","dept":"Produce","notes":"Fresh only"},
+
+
+  
+  {"number":11,"product":"Cucumber","quantity":1,"unit":"number","dept":"Produce","notes":"Fresh only"},
+
+
+  
+  {"number":12,"product":"Pepper","quantity":1,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":13,"product":"Chilly Powder","quantity":2,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":14,"product":"Corriander Powder","quantity":2,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":15,"product":"Turmeric Powder","quantity":1,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":16,"product":"Garam Masala","quantity":1,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":17,"product":"Meat Masala","quantity":2,"unit":"number","dept":"Spices","notes":"Eastern company"},
+
+  
+  {"number":18,"product":"Sambar Powder","quantity":2,"unit":"number","dept":"Spices","notes":"Eastern company"}
+
+
+  
+]

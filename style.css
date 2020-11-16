@@ -1,0 +1,59 @@
+
+/* BLOG SPECIFIC STYLES START HERE  */
+
+table{
+	border-collapse: collapse;
+    width: 100%;
+    margin-top:20px;
+}
+
+table td, table th {
+  border: 1px solid #f9f1ed;
+  padding: 8px;
+  
+}
+
+table tr{background-color: #f9f1ed ;
+          
+}
+
+
+
+table th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: #e4871e;
+  color: white;
+  
+}
+#get-details{
+  background-color:#bb5816;
+  padding:10px 15px;
+  font-size:1em;
+  font-weight:bold;
+  border-radius:5px;
+  color:white;
+  
+  
+}
+#get-details[disabled]{
+  opacity: 0.8; 
+  cursor: not-allowed;
+}
+
+
+/* BACKGROUND IMAGE */
+body{
+  background-image: url(grocery.JPG);
+  background-attachment: fixed;
+  background-repeat: no-repeat ;
+  background-size: cover;
+}
+
+#canvas{
+  border: 5px solid black;
+  padding: 5%;
+  float: left;
+
+}
